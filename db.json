@@ -1,0 +1,1946 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "sui caecus tenus",
+      "description": "Trepide thalassinus vesco via aliqua tandem denuncio ustilo vigor circumvenio. Vir approbo solitudo adduco thalassinus adicio ubi angulus. Provident vapulus ducimus ipsam celebrer.",
+      "poster": "https://loremflickr.com/400/600/movie?lock=6487172564740730",
+      "duration": 169
+    },
+    {
+      "id": 2,
+      "title": "angulus repellendus tollo",
+      "description": "Cornu corroboro avaritia officiis suppellex damnatio depulso canto corrumpo carbo. Aestus debeo inflammatio amita stillicidium verumtamen suspendo suscipio contigo. Capto verecundia vinitor ter pectus doloribus.",
+      "poster": "https://loremflickr.com/400/600/movie?lock=3715320282878566",
+      "duration": 116
+    },
+    {
+      "id": 3,
+      "title": "comptus catena usque",
+      "description": "Sordeo caries conduco. Timor quo asporto conforto degero curvo thema conicio repellendus agnitio. Iure dolorem porro ter qui astrum tantum damno.",
+      "poster": "https://loremflickr.com/400/600/movie?lock=8354370091830509",
+      "duration": 84
+    },
+    {
+      "id": 4,
+      "title": "magnam sit votum",
+      "description": "Decumbo similique sapiente tero subnecto tres ter aegre. Vehemens amitto supellex vulnero. Comedo totus certus dolorum.",
+      "poster": "https://loremflickr.com/400/600/movie?lock=3923066697491584",
+      "duration": 153
+    },
+    {
+      "id": 5,
+      "title": "spoliatio quia cupressus",
+      "description": "Acceptus thorax truculenter aspicio canto teres alii. At timidus degusto accusantium contabesco vomica. Volva thorax aut aro.",
+      "poster": "https://loremflickr.com/400/600/movie?lock=3215370363513710",
+      "duration": 148
+    }
+  ],
+  "sessions": [
+    {
+      "id": 10,
+      "movieId": 1,
+      "time": "2025-02-04T01:48:26.643Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "movieId": 1,
+      "time": "2025-02-04T03:47:28.789Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "movieId": 1,
+      "time": "2025-02-06T19:20:13.741Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": true
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "movieId": 2,
+      "time": "2025-02-10T02:37:26.583Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "movieId": 2,
+      "time": "2025-02-09T03:11:06.386Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "movieId": 2,
+      "time": "2025-02-08T05:00:04.975Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "movieId": 3,
+      "time": "2025-02-09T23:58:50.420Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": false
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "movieId": 3,
+      "time": "2025-02-08T02:16:10.314Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "movieId": 3,
+      "time": "2025-02-04T18:36:19.034Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": true
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "movieId": 4,
+      "time": "2025-02-09T04:01:35.097Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": false
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "movieId": 4,
+      "time": "2025-02-03T19:57:19.251Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": false
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "movieId": 4,
+      "time": "2025-02-09T08:05:50.541Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": false
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "movieId": 5,
+      "time": "2025-02-07T06:44:49.130Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": true
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "movieId": 5,
+      "time": "2025-02-06T21:51:20.380Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": false
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": true
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "movieId": 5,
+      "time": "2025-02-04T17:59:53.617Z",
+      "seats": [
+        {
+          "id": 1,
+          "row": 1,
+          "number": 1,
+          "booked": false
+        },
+        {
+          "id": 2,
+          "row": 1,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 3,
+          "row": 1,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 4,
+          "row": 1,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 5,
+          "row": 1,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 6,
+          "row": 2,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 7,
+          "row": 2,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 8,
+          "row": 2,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 9,
+          "row": 2,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 10,
+          "row": 2,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 11,
+          "row": 3,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 12,
+          "row": 3,
+          "number": 2,
+          "booked": true
+        },
+        {
+          "id": 13,
+          "row": 3,
+          "number": 3,
+          "booked": false
+        },
+        {
+          "id": 14,
+          "row": 3,
+          "number": 4,
+          "booked": true
+        },
+        {
+          "id": 15,
+          "row": 3,
+          "number": 5,
+          "booked": true
+        },
+        {
+          "id": 16,
+          "row": 4,
+          "number": 1,
+          "booked": true
+        },
+        {
+          "id": 17,
+          "row": 4,
+          "number": 2,
+          "booked": false
+        },
+        {
+          "id": 18,
+          "row": 4,
+          "number": 3,
+          "booked": true
+        },
+        {
+          "id": 19,
+          "row": 4,
+          "number": 4,
+          "booked": false
+        },
+        {
+          "id": 20,
+          "row": 4,
+          "number": 5,
+          "booked": true
+        }
+      ]
+    }
+  ]
+}
